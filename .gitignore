@@ -1,0 +1,8 @@
+coral_env/
+runs/
+data/
+data_tahap_a/
+*.pt
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
